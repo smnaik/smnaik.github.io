@@ -1,5 +1,8 @@
-body{
-  color: #000305;
-  font-size: 87.5%;
-  font-family: Arial, 'Lucida Sans Unicode';
+body {
+    background-color: #d0e4fe;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
 }
