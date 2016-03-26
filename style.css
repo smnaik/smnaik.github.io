@@ -25,6 +25,7 @@ a:hover, a:active{
 }
 
 .mainheader img{
+     
     width: 10%;
     height: auto;
     margin: 2% 0;
@@ -65,4 +66,62 @@ a:hover, a:active{
      border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
+}
+
+.mainContent{
+     line-height: 25px;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
+     overflow: hidden;
+}
+
+.content{
+     width: 70%;
+     float: left;
+}
+
+.topcontent{
+     background-color: #FFF;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
+     padding: 3% 5%;
+     margin-top: 2%;
+}
+
+.bottomcontent{
+     background-color: #FFF;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
+     padding: 3% 5%;
+     margin-top: 2%;
+}
+
+.top-sidebar{
+     width: 25%;
+     float: left;
+     background-color: #FFF;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
+}
+
+middle-sidebar{
+     width: 25%;
+     float: left;
+     background-color: #FFF;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
+}
+
+bottom-sidebar{
+     width: 25%;
+     float: left;
+     background-color: #FFF;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
 }
